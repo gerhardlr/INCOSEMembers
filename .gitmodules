@@ -1,3 +1,9 @@
 [submodule "membAA"]
 	path = membAA
 	url = https://github.com/gerhardlr/membAA.git
+[submodule "memb"]
+	path = memb
+	url = https://github.com/gerhardlr/memb.git
+[submodule "membAATester"]
+	path = membAATester
+	url = https://github.com/gerhardlr/membAATester.git

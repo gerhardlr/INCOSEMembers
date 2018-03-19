@@ -1,0 +1,3 @@
+[submodule "membAA"]
+	path = membAA
+	url = https://github.com/gerhardlr/membAA.git
